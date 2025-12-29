@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SidhsHub
+- 👋 Hi, I’m Siddhesh
 - 👀 I’m interested in Data science
 - 💞️ I’m looking to collaborate on the project related to SQL and Tableau
 - 📫 How to reach me siddhesh.chavan04@gmail.com
